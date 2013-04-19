@@ -1,0 +1,76 @@
+C:\Users\Edwin\Desktop\assignment\spring 2011\pic10c\hw\misscom\misscom\bin\Debug\misscom.exe
+C:\Users\Edwin\Desktop\assignment\spring 2011\pic10c\hw\misscom\misscom\bin\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\assignment\spring 2011\pic10c\hw\misscom\misscom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\assignment\spring 2011\pic10c\hw\misscom\misscom\obj\Debug\misscom.mc_Form.resources
+C:\Users\Edwin\Desktop\assignment\spring 2011\pic10c\hw\misscom\misscom\obj\Debug\misscom.Properties.Resources.resources
+C:\Users\Edwin\Desktop\assignment\spring 2011\pic10c\hw\misscom\misscom\obj\Debug\misscom.csproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\assignment\spring 2011\pic10c\hw\misscom\misscom\obj\Debug\misscom.exe
+C:\Users\Edwin\Desktop\assignment\spring 2011\pic10c\hw\misscom\misscom\obj\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom\misscom\obj\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom\misscom\obj\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom\misscom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\misscom\misscom\obj\Debug\misscom.mc_Form.resources
+C:\Users\Edwin\Desktop\misscom\misscom\obj\Debug\misscom.Properties.Resources.resources
+C:\Users\Edwin\Desktop\misscom\misscom\obj\Debug\misscom.csproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\misscom\misscom\bin\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom\misscom\bin\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test\misscom\bin\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom_test\misscom\bin\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\misscom.mc_Form.resources
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\misscom.Properties.Resources.resources
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\misscom.csproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\misscom_test\misscom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Edwin\Desktop\misscom_test\misscom\bin\Debug\Interop.WMPDXMLib.dll
+C:\Users\Edwin\Desktop\misscom_test\misscom\bin\Debug\Interop.WMPLib.dll
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\misscom.Resources.miss_fire2.mp3
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\misscom.Resources.missile_pic.gif
+C:\Users\Edwin\Desktop\misscom_test\misscom\obj\Debug\misscom.Resources.city.gif
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test2\misscom\bin\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom_test2\misscom\bin\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test2\misscom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Edwin\Desktop\misscom_test2\misscom\bin\Debug\Interop.WMPDXMLib.dll
+C:\Users\Edwin\Desktop\misscom_test2\misscom\bin\Debug\Interop.WMPLib.dll
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\misscom.Resources.miss_fire2.mp3
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\misscom.Resources.missile_pic.gif
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\misscom.Resources.city.gif
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\misscom.mc_Form.resources
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\misscom.Properties.Resources.resources
+C:\Users\Edwin\Desktop\misscom_test2\misscom\obj\Debug\misscom.csproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test3\misscom\bin\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom_test3\misscom\bin\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test3\misscom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Edwin\Desktop\misscom_test3\misscom\bin\Debug\Interop.WMPDXMLib.dll
+C:\Users\Edwin\Desktop\misscom_test3\misscom\bin\Debug\Interop.WMPLib.dll
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\misscom.Resources.miss_fire2.mp3
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\misscom.Resources.missile_pic.gif
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\misscom.Resources.city.gif
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\misscom.mc_Form.resources
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\misscom.Properties.Resources.resources
+C:\Users\Edwin\Desktop\misscom_test3\misscom\obj\Debug\misscom.csproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test4\misscom\bin\Debug\misscom.exe
+C:\Users\Edwin\Desktop\misscom_test4\misscom\bin\Debug\misscom.pdb
+C:\Users\Edwin\Desktop\misscom_test4\misscom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Edwin\Desktop\misscom_test4\misscom\bin\Debug\Interop.WMPDXMLib.dll
+C:\Users\Edwin\Desktop\misscom_test4\misscom\bin\Debug\Interop.WMPLib.dll
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.Resources.missile_pic.gif
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.Resources.city.gif
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.mc_Form.resources
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.Properties.Resources.resources
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.csproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.Resources.land2.gif
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.Resources.bomber.gif
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.miss_about.resources
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.Resources.miss_fire.wav
+C:\Users\Edwin\Desktop\misscom_test4\misscom\obj\Debug\misscom.Resources.pop.wav
